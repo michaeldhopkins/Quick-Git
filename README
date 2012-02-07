@@ -1,0 +1,9 @@
+QuickGit, the lazy man's deployment process.
+
+How to use:
+1. Copy qgit.sh to /usr/bin/local (or the path on your system.)
+2. Navigate to a folder with a git repository.
+3. Type qgit.sh "commit message." The commit message must be in quotes.
+4. Everything new is checked in and committed to master. Master is pushed to origin, then pushed to Heroku.
+
+Enjoy!
